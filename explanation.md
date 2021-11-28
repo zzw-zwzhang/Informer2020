@@ -5,3 +5,7 @@ Encoder:
 
 Decoder:
 ![image](https://user-images.githubusercontent.com/32430028/143778924-bc7a4f68-bf1f-4e8e-bbd0-7fd64428d87a.png)
+
+
+DataEmbedding:
+![image](https://user-images.githubusercontent.com/32430028/143781852-b6c7fcb9-cf2c-4362-b193-0da2a191cbbf.png)
